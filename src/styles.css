@@ -1,0 +1,50 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  margin: 20px;
+  padding: 0;
+}
+
+.helloWorldLab {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+.inputLab {
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.inputBox {
+	font-size: 14px;
+	margin-top: -5px;
+}
+
+.panel {
+	background: #fff;
+	border: 1px solid #999;
+	float: left;
+	line-height: 350px;
+	height: 400px;
+	margin-right: -1px;
+	margin-top: -1px;
+	padding: 0;
+	text-align: center;
+	width: 100%;
+}
+
+.inputPanel {
+	background: #fff;
+	border: 1px solid #999;
+	float: left;
+	line-height: 28px;
+	height: 32px;
+	margin-right: -1px;
+	margin-top: 10px;
+	padding: 0;
+	text-align: center;
+	width: 100%;
+}
