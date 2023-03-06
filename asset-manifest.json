@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ReactBoilerplate/static/css/main.8fa81786.css",
+    "main.js": "/ReactBoilerplate/static/js/main.c430176d.js",
+    "index.html": "/ReactBoilerplate/index.html",
+    "main.8fa81786.css.map": "/ReactBoilerplate/static/css/main.8fa81786.css.map",
+    "main.c430176d.js.map": "/ReactBoilerplate/static/js/main.c430176d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8fa81786.css",
+    "static/js/main.c430176d.js"
+  ]
+}
