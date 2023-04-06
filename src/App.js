@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-// React basics:
+// REACT BASICS:
 // The "export" keyword makes the function accessible outside of this file (so from the index.js in this example)
 // The "default" keyword tells other files using the code in this file that is the main function
 // The return here is a "JSX element", which is a combination of javascript and HTML (basically what to display)
