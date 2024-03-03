@@ -1,3 +1,5 @@
+This can be viewed from https://zerihal.github.io/ReactBoilerplate/
+
 To get started with this project, the following setup steps are recommended:
 
 * Install latest version of Node.js
